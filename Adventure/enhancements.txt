@@ -1,0 +1,31 @@
+Puzzle: Final Exam
+The final exam puzzle can only be taken if the player has met the following conditions:
+
+The final exam puzzle consists of 5 math questions. Each question is shown to the player,
+who must then input an answer for the question. Regardless of whether the player's answer was right or wrong, the final exam will continue
+and display the next question to the player.
+
+At the end of the final exam, the player's grade is totaled.
+If the player's grade is greater than or equal to 50%, then the player wins the game.
+If the player's grade is less than 50%, then the player loses the game.
+
+***
+
+Enhancement: Time
+A starting time can be set and an exam time can be set. The game keeps track of the current time in-game.
+The player must find all of the items and return to the exam room before current time reaches the game time.
+Each time the player moves to a location, searches a location, or buys coffee, time passes.
+
+Enhancement: Tiredness & Coffee:
+Tiredness affects the amount of time that passes when moving to a location or searching it.
+The more tired a player is, the more time it takes to complete one of the aforementioned actions, adding to the time pressure of the game.
+Furthermore, a player’s tiredness increases automatically if he or she chooses to move, so it is even more important to conserve moves.
+The player’s tiredness can be decreased by buying coffee, which costs time but reduces the tiredness, saving time in the long term.
+
+***
+
+gameplay1.txt (same as solution):
+Shows game play with player using time to gauge moves possible before winning.
+
+gameplay2.txt:
+Shows the player drinking coffee to reduce tiredness, reducing transport and search time.

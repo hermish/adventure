@@ -1,0 +1,24 @@
+QUESTION 1
+(500 / 3) * 3 - 150 = ?
+350
+END
+
+QUESTION 2
+1435 / 5 + 20 * 85 - 100 = ?
+24315
+END
+
+QUESTION 3
+1 + 1 = ?
+2
+END
+
+QUESTION 4
+78 * 50 = ?
+3900
+END
+
+QUESTION 5
+(90 + 429) / 500 = ?
+1.038
+END

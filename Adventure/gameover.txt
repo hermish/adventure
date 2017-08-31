@@ -1,0 +1,47 @@
+score
+search
+go east
+score
+search
+go north
+score
+search
+go west
+score
+search
+go north
+score
+search
+take
+Lucky Pen
+inventory
+score
+go west
+score
+search
+go north
+score
+search
+take
+Cheat Sheet
+inventory
+score
+go south
+go east
+go south
+go south
+go south
+score
+search
+go west
+score
+search
+go west
+score
+search
+go north
+score
+search
+go north
+score
+no

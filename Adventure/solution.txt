@@ -1,0 +1,49 @@
+score
+go south
+score
+go west
+score
+go west
+score
+go north
+score
+go north
+score
+search
+take
+T-Card
+inventory
+score
+go south
+go south
+go east
+go east
+go north
+go north
+score
+go north
+score
+search
+take
+Lucky Pen
+inventory
+score
+go west
+score
+go north
+score
+search
+take
+Cheat Sheet
+inventory
+score
+go south
+go east
+go south
+go south
+350
+24315
+2
+3900
+1.038
+no

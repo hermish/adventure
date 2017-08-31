@@ -1,0 +1,126 @@
+BLOCKED
+0
+False
+This way is blocked.
+This way is blocked.
+END
+
+LOCATION 0
+Hart House
+10
+True
+You are at the Hart House. The Instructional Building is to the south.
+You are at the Hart House. As usual, the streets are loud and filled with people. There is
+a food vendor nearby selling juicy hot dogs and some students walk by, each holding a
+hot dog. You are tempted to buy one, but you have better things to do. Maybe you could have
+bought one if you didn't lose all your things the night before an exam. The Instructional
+Building is to the south.
+END
+
+LOCATION 1
+Instructional Building
+3
+True
+You are at the Instructional Building. The library is to the east.
+You are at the Instructional Building. Tons of students are outside the lecture halls,
+waiting to take their exams. The smell of coffee and desserts fills the air. The library
+is to the east.
+END
+
+LOCATION 2
+Library
+2
+True
+You are in the library. The CCT building is south, Instructional Building west.
+You are in the library. All of the study rooms are filled with students studying for their
+exams. To the south is the CCT building; to the north is the Instructional Building.
+END
+
+LOCATION 3
+North Building
+6
+False
+You are inside North building. There is no one here. To the south is Deerfield hall.
+You are inside North building. The building resembles a prison and is eerily quiet.
+There is no one here. You feel uncomfortable. To the south is Deerfield hall.
+END
+
+LOCATION 4
+CCT Building
+5
+True
+You are at the CCT building. The library is north, Davis south, Healh Sciences east.
+You are at the CCT building. The sweet scent of Beaver Tails fills the building as people
+flow inside, enjoying their desserts. To the north is the library; to the south is
+the Davis building.
+END
+
+LOCATION 5
+Health Sciences Building
+4
+False
+You are in the Health Sciences Building. To the west is the CCT building. The gym is south.
+You are in the Health Science Building. The building seems to glow as its glass walls reflect
+the rays of sunshine. There are several people in lab coats shuffling around inside. To the
+west is the CCT building. The gym is south.
+END
+
+LOCATION 6
+Deerfield Hall
+8
+Coffee
+You are in Deerfield hall. The North building is north, Oscar Peterson Hall south.
+You are in Deerfield hall. You are enveloped by the scent of freshly baked pizza. To the
+north is North building; to the south is Oscar Peterson Hall.
+END
+
+LOCATION 7
+Davis Building
+3
+True
+You are in the Davis Building. The CCT building is north, gym east, Innovation Complex south
+You are in the Davis Building. As usual, Tim Horton's is packed with people. The building
+is filled with chatter from The Meeting Place and the hallways are bustling with students
+waiting to take their exams. The CCT building is to the north; the gym is to the east.
+END
+
+LOCATION 8
+Gym
+8
+False
+You are at the gym. To the north is the Health Sciences Building, to the east is Davis.
+You are at the gym. People holding gym bags flow in and out of the changing rooms. You hear
+the sound of shoes squeaking against the basketball court floor along with the sound of
+basketballs pounding against the floor. To the north is the Health Sciences Building and
+David building is east.
+END
+
+LOCATION 9
+Oscar Peterson Hall
+5
+False
+You are at Oscar Peterson Hall. To the north is Deerfield Hall. The Student Center is east.
+You are at Oscar Peterson Hall. A student walks by, carrying a tray with a steaming burger.
+The warm scent fills the hallway and your mouth begins to water. To the north is Deerfield
+Hall. The Student Center is east.
+END
+
+LOCATION 10
+Student Center
+3
+False
+You are at the Student Center. The Innovation Complex is east, Oscar Peterson Hall west.
+You are at the Student Center. There is obnoxiously loud music blaring throughout the
+building and you can barely hear yourself think. The Innovation Comple is east and Oscar
+Peterson Hall is west.
+END
+
+LOCATION 11
+Innovation Complex
+2
+True
+You are inside the Innovation Complex. The Davis building is north, the Student Center west.
+You are inside the Innovation Complex. Many students are studying in the library. Some of
+them must be waiting to meet with an advisor. Surprisingly, despite the number of students,
+the building is rather quiet. The Davis building is north. The Student Center is west.
+END

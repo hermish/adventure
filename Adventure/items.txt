@@ -1,0 +1,20 @@
+ITEM 0
+Cheat Sheet
+7
+7
+Description
+END
+
+ITEM 3
+T-Card
+10
+7
+Description
+END
+
+ITEM 2
+Lucky Pen
+3
+7
+Description
+END
